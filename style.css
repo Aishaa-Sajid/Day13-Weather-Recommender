@@ -1,0 +1,9 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    /* font-size: 14px; */
+}
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
